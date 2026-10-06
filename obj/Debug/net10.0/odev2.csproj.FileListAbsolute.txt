@@ -1,0 +1,14 @@
+/Users/talhayildiz/Odevler/odev2/bin/Debug/net10.0/odev2
+/Users/talhayildiz/Odevler/odev2/bin/Debug/net10.0/odev2.deps.json
+/Users/talhayildiz/Odevler/odev2/bin/Debug/net10.0/odev2.runtimeconfig.json
+/Users/talhayildiz/Odevler/odev2/bin/Debug/net10.0/odev2.dll
+/Users/talhayildiz/Odevler/odev2/bin/Debug/net10.0/odev2.pdb
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.AssemblyInfoInputs.cache
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.AssemblyInfo.cs
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.csproj.CoreCompileInputs.cache
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.dll
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/refint/odev2.dll
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.pdb
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/odev2.genruntimeconfig.cache
+/Users/talhayildiz/Odevler/odev2/obj/Debug/net10.0/ref/odev2.dll
